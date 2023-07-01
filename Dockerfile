@@ -1,6 +1,3 @@
-
-
-
 FROM centos
 RUN apt update
 RUN apt install httpd -y
