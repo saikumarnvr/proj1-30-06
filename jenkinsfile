@@ -1,12 +1,1 @@
 
-pipeline{
-    stages{
-    stage('Fetch code'){
-        steps{
-            git 'https://github.com/saikumarnvr/proj1-30-06.git'
-        }
-    }
-    }
-    
-    }
-
